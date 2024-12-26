@@ -1,5 +1,5 @@
 package com.example.colorapp.data
-
+ 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import androidx.room.ColumnInfo
